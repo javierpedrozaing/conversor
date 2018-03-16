@@ -1,12 +1,18 @@
 {
-	"name": "conversor",
-	"version": "0.1.0",
-	"description": "conversor de pesos",
-	"main": "dist/src/conversor.js",
-	"scripts": {
-		"build": "babel src/conversor.js -d dist",		
-	},
-	"keywords" : ["conversor, convertidor"],
-	"author": "Javier",
-	"license": "MIT",
+  "name": "conversor",
+  "version": "0.1.0",
+  "description": "conversor de pesos",
+  "main": "dist/src/conversor.js",
+  "scripts": {
+    "build": "babel src/conversor.js -d dist"
+  },
+  "keywords": [
+    "conversor"
+  ],
+  "author": "Javier",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
 }
