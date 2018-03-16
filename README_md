@@ -1,0 +1,13 @@
+# conversor medidas de peso
+## conversor de pesos, kilogramos a libras
+
+## Instalación npm install conversor
+
+## uso
+
+´´
+import conversor from 'conversor'
+´´
+
+## Licencia
+[licencia](https://opensource.org/licenses/MIT)

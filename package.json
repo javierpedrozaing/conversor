@@ -1,0 +1,12 @@
+{
+	"name": "conversor",
+	"version": "0.1.0",
+	"description": "conversor de pesos",
+	"main": "dist/src/conversor.js",
+	"scripts": {
+		"build": "babel src/conversor.js -d dist",		
+	},
+	"keywords" : ["conversor, convertidor"],
+	"author": "Javier",
+	"license": "MIT",
+}
